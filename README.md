@@ -1,16 +1,26 @@
-# YANG-Auto-Dark-Mode
-YANG Auto Dark Mode 自动化深色模式程序项目启动
+<div align="center">
+    <h1>AutoDarkMode Windows自动深色模式</h1>
+    <img src="https://img.shields.io/github/license/JasonYANG170/AutoDarkMode?label=License&style=for-the-badge">
+    <img src="https://img.shields.io/github/commit-activity/w/JasonYANG170/AutoDarkMode?style=for-the-badge">
+<img src="https://img.shields.io/github/languages/count/JasonYANG170/AutoDarkMode?logo=cplusplus&style=for-the-badge">
+	<br>
+    	<a href="https://discord.com/invite/az3ceRmgVe"><img alt="Discord" src="https://img.shields.io/discord/978108215499816980?style=social&logo=discord&label=echosec"></a>
+  <br>
 
-于2023年1月26日发布V1.0.0测试版本
+这是一项基于C++的MFC应用程序
+  
+<br>
 
-现已发布V2.0.0正式版本
+</div>
 
-解决了V1.0.0Beta到V1.5.0Beta中的所有BUG。
+## 功能
+- ✅ 定时切换深色模式
+- ✅ 定时切换浅色模式
+- ✅ 开机自启动
+- ✅ 后台运行
 
-**现项目功能合并至"健康守护"项目**
-
-现在程序全部功能已经可以正常使用了。
-
+**现项目功能合并至"健康守护"项目**  
+现在程序全部功能已经可以正常使用了。  
 暂未发现新的BUG，如有遇到请告知我。
 # 使用说明
 输入设定时间（24小时制）后深色模式将会在大于等于设定时间时启动。
