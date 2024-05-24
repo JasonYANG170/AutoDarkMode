@@ -6,7 +6,9 @@
 	<br>
     	<a href="https://discord.com/invite/az3ceRmgVe"><img alt="Discord" src="https://img.shields.io/discord/978108215499816980?style=social&logo=discord&label=echosec"></a>
   <br>
+<img src="https://github.com/JasonYANG170/AutoDarkMode/assets/39414350/dff1b1ed-2718-482d-aaa5-9a853a11a1f9">
 
+<br>
 这是一项基于C++的MFC应用程序
   
 <br>
