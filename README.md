@@ -1,3 +1,5 @@
+[简体中文](README.md) | [English](README_en.md)
+
 <div align="center">
     <h1>AutoDarkMode Windows自动深色模式</h1>
     <img src="https://img.shields.io/github/license/JasonYANG170/AutoDarkMode?label=License&style=for-the-badge">
